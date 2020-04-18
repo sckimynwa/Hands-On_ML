@@ -17,3 +17,5 @@ Objective: MNIST 데이터셋을 이용해서 정확도가 96% 이상인 간단�
 3. Spam Classifier 모델 만들기
 
 ### Linear Regression
+
+### Support Vector Machine
